@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Specifics by me
+.vs/
+bin/
+osg-3.6.5-VC2019-x64/
+raaAssignment2-vs2015/
+.raaRunMe.bat
+.raaAssignment2-vs2019.sln
+
 # User-specific files
 *.rsuser
 *.suo
